@@ -1,7 +1,7 @@
-import NoteReaderScreen from './components/NoteReaderScreen';
+import LearningFlow from './components/LearningFlow';
 
 function App() {
-  return <NoteReaderScreen />;
+  return <LearningFlow />;
 }
 
 export default App;
